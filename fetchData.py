@@ -47,9 +47,9 @@ def main(dirName):
 
      
 if __name__ == '__main__':
-    dirName = '/home/binuri/work_Msc/IR_Assignment3/20_newsgroup';
+#    dirName = '/home/binuri/work_Msc/IR_Assignment3/20_newsgroupSample';
     listOfFiles = main(dirName)
-#    print(listOfFiles)
+    print(listOfFiles)
     
     
 # your corpus
